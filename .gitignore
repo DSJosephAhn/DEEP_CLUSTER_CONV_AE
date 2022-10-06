@@ -8,3 +8,5 @@ results/
 svm-classification.ipynb
 __pycache__/
 datasets.pyc
+
+src/data/usps/*
