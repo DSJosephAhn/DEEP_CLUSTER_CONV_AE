@@ -1,0 +1,9 @@
+numpy
+
+scikit-learn
+keras
+tensorflow
+
+easydict
+pydot
+graphviz
